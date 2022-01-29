@@ -1,0 +1,14 @@
+th {
+  font-weight: bold !important;
+  color: white !important;
+}
+
+td {
+  color: white !important;
+}
+
+.portfolioContentContainer {
+  margin-top: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
